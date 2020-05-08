@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  ClassFac.cpp
+  dllmain.cpp
+  InstProv.cpp
+  Utils.cpp
+     Creating library C:\Users\jagap\source\repos\InstProvSamp\Release\InstProvSamp.lib and object C:\Users\jagap\source\repos\InstProvSamp\Release\InstProvSamp.exp
+InstProvSamp.exp : warning LNK4070: /OUT:INSTPROV.dll directive in .EXP differs from output filename 'C:\Users\jagap\source\repos\InstProvSamp\Release\InstProvSamp.dll'; ignoring directive
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 200 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+InstProvSamp.exp : warning LNK4070: /OUT:INSTPROV.dll directive in .EXP differs from output filename 'C:\Users\jagap\source\repos\InstProvSamp\Release\InstProvSamp.dll'; ignoring directive
+  InstProvSamp.vcxproj -> C:\Users\jagap\source\repos\InstProvSamp\Release\InstProvSamp.dll

@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  ClassFac.cpp
+  dllmain.cpp
+  InstProv.cpp
+  Utils.cpp
+  Generating Code...
+     Creating library C:\Users\jagap\source\repos\InstProvSamp\Debug\InstProvSamp.lib and object C:\Users\jagap\source\repos\InstProvSamp\Debug\InstProvSamp.exp
+InstProvSamp.exp : warning LNK4070: /OUT:INSTPROV.dll directive in .EXP differs from output filename 'C:\Users\jagap\source\repos\InstProvSamp\Debug\InstProvSamp.dll'; ignoring directive
+  InstProvSamp.vcxproj -> C:\Users\jagap\source\repos\InstProvSamp\Debug\InstProvSamp.dll

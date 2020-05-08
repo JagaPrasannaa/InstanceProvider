@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  ClassFac.cpp
+  dllmain.cpp
+C:\Users\jagap\source\repos\InstProvSamp\InstProvSamp\dllmain.cpp(204,86): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  InstProv.cpp
+  Utils.cpp
+     Creating library C:\Users\jagap\source\repos\InstProvSamp\x64\Release\InstProvSamp.lib and object C:\Users\jagap\source\repos\InstProvSamp\x64\Release\InstProvSamp.exp
+InstProvSamp.exp : warning LNK4070: /OUT:INSTPROV.dll directive in .EXP differs from output filename 'C:\Users\jagap\source\repos\InstProvSamp\x64\Release\InstProvSamp.dll'; ignoring directive
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+InstProvSamp.exp : warning LNK4070: /OUT:INSTPROV.dll directive in .EXP differs from output filename 'C:\Users\jagap\source\repos\InstProvSamp\x64\Release\InstProvSamp.dll'; ignoring directive
+  InstProvSamp.vcxproj -> C:\Users\jagap\source\repos\InstProvSamp\x64\Release\InstProvSamp.dll

@@ -1,0 +1,8 @@
+; Copyright (c)  Microsoft Corporation, All Rights Reserved
+LIBRARY         INSTPROV
+;DESCRIPTION     'Sample WMI Instance Provider.
+EXPORTS
+                DllGetClassObject       PRIVATE
+                DllCanUnloadNow         PRIVATE
+                DllRegisterServer       PRIVATE
+                DllUnregisterServer     PRIVATE
